@@ -13,7 +13,7 @@ A Convolutional Neural Network (CNN) is comprised of one or more convolutional l
 [CNN ](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 [VGG-16](https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3)
 ## Code With Documentation
-[I'm an inline-style link](https://www.google.com)
+https://github.com/hehan011223/Identification-of-Cat-and-Dog/blob/master/ProjectCatDog.ipynb
 #### Dataset
 We use webscraper to get the dataset from PEXELS website. PEXELS consists of documentary-style natural color photos depicting complex, we scraped a set of cats and dogs photographs from this site
 ## Methods
